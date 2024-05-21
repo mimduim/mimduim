@@ -1,8 +1,6 @@
-## Hi there 👋
-
+### boas vindas ao meu perfil :
 <!--
-**mimduim/mimduim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Meu nome e Estevao,mas pode me chamar de mimduim
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
